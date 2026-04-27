@@ -1,1 +1,1 @@
-# booking-funnel-analysis
+Multi-step SQL funnel analysis correlating cart conversion rates with appointment lead time. Uses CTEs, window functions, and cohort segmentation to identify drop-off points and rank store performance.
